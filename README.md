@@ -33,9 +33,9 @@ You are recommended to use either [Google Colab](https://colab.research.google.c
 
 ## Optional exploration tasks
 
-The following tasks are optional. You can simply discuss how you would approach these problems. If you have time, you can also implement them and see the results!
+The following tasks are optional. You only need to discuss how you would approach these problems. If you have time, you can implement your proposed solutions and share with us your results!
 
-1. What are the misclassified photos? How do you explain why they are misclassified? How will you do to help your model classify those photos correctly?
+1. What are the misclassified photos? How do you explain why they are misclassified? How can you help your model classify those photos correctly?
 
 2. How do you know if your model has actually learned to classify the images? Or it's just very lucky at guessing.
 
@@ -45,7 +45,11 @@ The following tasks are optional. You can simply discuss how you would approach 
 
 ## Submission
 
-You will submit your Jupyter notebook with your work in it. You should note down your thought process in the notebook.
+You will submit your Jupyter notebook with your original work in it. You should note down your process in the notebook. Some pointers that you can include:
+
+- Your thought process
+- What you have tried; what worked and what didn't
+- Your results i.e. accuracy
 
 Note:
 
