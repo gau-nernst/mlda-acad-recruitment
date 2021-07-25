@@ -8,7 +8,7 @@ If you have any questions, don't hesitate to contact me (Thien, MLDA Academics H
 
 ## Introduction to Image Classification and Transfer Learning
 
-Convolution Neural Networks (CNNs) have revolutionized Computer Vision, enabling machines to see and understand the world just like humans. CNNs not only power [self-driving capabilities]((https://www.tesla.com/autopilotAI)) of Tesla cars, but they are also a [fundamental part](https://www.linkedin.com/posts/bytedance_bytedance-augmentedreality-technology-activity-6811210320040742912-Ti5y) of your favourite TikTok or Instagram filters.
+Convolution Neural Networks (CNNs) have revolutionized Computer Vision, enabling machines to see and understand the world just like humans. CNNs not only power [self-driving capabilities](https://www.tesla.com/autopilotAI) of Tesla cars, but they are also a [fundamental part](https://www.linkedin.com/posts/bytedance_bytedance-augmentedreality-technology-activity-6811210320040742912-Ti5y) of your favourite TikTok or Instagram filters.
 
 ![Mask detection with CNN](https://www.programmersought.com/images/740/dfe069d8c4453ac17f01f8a6445da9f4.gif)
 
