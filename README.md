@@ -4,6 +4,8 @@ This task serves to give people without prior background in Machine Learning (ML
 
 You should have basic programming skills to complete this task.
 
+If you have any questions, don't hesitate to contact me (Thien, MLDA Academics Head) at tran0096@e.ntu.edu.sg
+
 ## Introduction to Image Classification and Transfer Learning
 
 Convolution Neural Networks (CNNs) have revolutionized Computer Vision, enabling machines to see and understand the world just like humans. CNNs not only power [self-driving capabilities]((https://www.tesla.com/autopilotAI)) of Tesla cars, but they are also a [fundamental part](https://www.linkedin.com/posts/bytedance_bytedance-augmentedreality-technology-activity-6811210320040742912-Ti5y) of your favourite TikTok or Instagram filters.
@@ -50,6 +52,11 @@ You will submit a Jupyter notebook with your original work in it. You should not
 - Your thought process
 - What you have tried; what worked and what didn't
 - Your results i.e. accuracy
+
+There is no submission deadline. You only need to submit before your scheduled interview. Please send your submission via email together with your particulars (full name and matriculation number)
+
+- Send to this email: tran0096@e.ntu.edu.sg
+- Email subject: [MLDA Recruitment] Academics Optional Task submission
 
 Note:
 
