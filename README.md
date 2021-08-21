@@ -6,6 +6,10 @@ You should have basic programming skills to complete this task.
 
 If you have any questions, don't hesitate to contact me (Thien, MLDA Academics Head) at tran0096@e.ntu.edu.sg
 
+**UPDATE**: suggested solution has been uploaded. Click the button below to open it in Google Colab.
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/gau-nernst/mlda-acad-recruitment/blob/master/Animal_crossing_vs_Doom.ipynb)
+
 ## Introduction to Image Classification and Transfer Learning
 
 Convolution Neural Networks (CNNs) have revolutionized Computer Vision, enabling machines to see and understand the world just like humans. CNNs not only power [self-driving capabilities](https://www.tesla.com/autopilotAI) of Tesla cars, but they are also a [fundamental part](https://www.linkedin.com/posts/bytedance_bytedance-augmentedreality-technology-activity-6811210320040742912-Ti5y) of your favourite TikTok or Instagram filters.
